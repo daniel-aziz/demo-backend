@@ -1,4 +1,4 @@
-# DEMO BACK-END FOR GIST MD
+# Patient info register BACK-END
 
 ### 1. Set up mongoDB address 
 set up the following mongoDB url in app.js\
